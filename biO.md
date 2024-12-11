@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @geesevgoose
+- 👀 I’m interested in cybersecurity projects/initiatives aroun the environmental/energy sector 
+- 🌱 I’m currently learning python and related topics for cybersecurity and ArcGIS
+- 💞️ I’m looking to collaborate on beginner cybersecurity projects around the environmental/energy sector
+- ⚡ Fun fact: i have read over 250 books (according to my GoodReads)
