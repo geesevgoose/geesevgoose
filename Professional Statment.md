@@ -1,1 +1,10 @@
 ## Professional Statement 
+A highly-motivated and adaptable individual with a diverse professional and educational background, now pinpoint focussed on a career in cybersecurity. A lifelong learner, I bring passion, enthusiasm, dedication and a proactive approach with a commitment to contributing and developing a career in organisational security and resilience.
+
+With over 10 years of professional experience across hospitality, retail and recruitment - I have honed excellent interpersonal, problem-solving and organisational skills. My career has spanned international locations such as London, Edinburgh, Dublin, Belfast, and Nashville, USA, giving me an enriching perspective and the ability to adapt quickly to new challenges and their environments. These experiences have instilled a strong work ethos, resilience and results-driven mindset, which I now aim to leverage for a career in cybersecurity.
+
+My academic background includes a 2:2 BSc in Environmental Science, complimented with a certificate in Information Security Management Systems (ISMS) and a Diploma in Cybersecurity. I am also actively enrolled in a Google-accredited Foundations of Cybersecurity course. I am deeply engaged in continuous learning, actively doing mini-courses in Python, SQL, Linux and ArcGIS; building a strong technical foundation. Beyond formal education, I pursue a passion for cybersecurity through extracurricular activities such as reading industry-related nonfiction, attending conferences (both online and offline) and opted-in for industry newsletters such as TL;DR, Zero Day and daily.dev.
+
+Outside my professional development and academics, I enjoy sports such as tennis, running and weightlifting (I am a qualified personal trainer and Pilates instructor), which helped foster discipline, focus and mental clarity. My well-rounded profile reflects a balance of technical aptitude, curiosity, and a commitment to excellence, qualities that are essential in a dynamic and ever-evoloving field like cycbersecurity. 
+
+I am eager to apply my skills and passion to contribute to any organisation that prides a forward-thinking ethos.
